@@ -5,4 +5,7 @@ This program is designed to output random motivational messages to the user when
 
 ### *How to load up the program?*
 
-You can load this program by simply using Node.js to run the program in your terminal. 
+You can load this program by simply using Node.js to run the program in your terminal was shown below.
+(You must have Node.js downloaded before trying this program)
+
+![Screenshot of the terminal](screenshot.png)
